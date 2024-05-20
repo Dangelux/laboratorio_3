@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Laboratorio3Application<Laboratorio3>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.PPOOII.Laboratorio.Laboratorio3Application",
+            "projectName": "Laboratorio3",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
