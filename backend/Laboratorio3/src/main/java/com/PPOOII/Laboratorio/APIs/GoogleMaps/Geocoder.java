@@ -13,7 +13,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class Geocoder {
 
 	private static final String GEOCODING_RESOURCE = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?fields=all&inputtype=textquery&key=";
-    private static final String API_KEY = "AIzaSyD9o2ubO-TwI1lrxBKnZYApnDAbCilCfeU";
+    private static final String API_KEY = "XXXXXX";
 
     public Geocoder() {
     	
